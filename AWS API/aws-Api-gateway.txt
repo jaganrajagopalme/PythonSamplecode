@@ -1,0 +1,8 @@
+{
+    ContractEmployee:[
+        {employeeId:123,employeeName:"Ram"}
+    ],
+    PermanentEmployee:[
+        {employeeId:345,employeeName:"John"}
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "$schema":"http:///json-schema.org/draft-84/schema#",
+    "title":"Employee status",
+    "type":"object",
+    "properties": {
+                 "status":{"type":"string","enum":["PermanentEmployee","ContractEmployee"]}
+                  },
+    "required":["status"]
+}
